@@ -6,8 +6,8 @@ This is a compact record of the decisions that shaped StudyCanvas. Each entry st
 
 ## ADR 001: Make the learning trail a graph
 
-**Status:** Accepted  
-**First adopted:** February 2026
+- **Status:** Accepted
+- **First adopted:** February 2026
 
 ### Context
 
@@ -33,8 +33,8 @@ The graph becomes a barrier for small screens or screen-reader navigation. A fut
 
 ## ADR 002: Keep workspaces local at rest
 
-**Status:** Accepted  
-**First adopted:** February 2026
+- **Status:** Accepted
+- **First adopted:** February 2026
 
 ### Context
 
@@ -60,8 +60,8 @@ Users consistently need collaboration or cross-device continuity. Any hosted syn
 
 ## ADR 003: Use direct scoped context instead of vector retrieval
 
-**Status:** Accepted  
-**First adopted:** February 2026
+- **Status:** Accepted
+- **First adopted:** February 2026
 
 ### Context
 
@@ -87,8 +87,8 @@ Multi-document research becomes a primary workflow and direct context can no lon
 
 ## ADR 004: Stream text and typed control frames over one response
 
-**Status:** Accepted  
-**First adopted:** February 2026
+- **Status:** Accepted
+- **First adopted:** February 2026
 
 ### Context
 
@@ -115,8 +115,8 @@ The control vocabulary becomes difficult to evolve safely. A versioned event pro
 
 ## ADR 005: Run student Python in the browser
 
-**Status:** Accepted  
-**First adopted:** March 2026
+- **Status:** Accepted
+- **First adopted:** March 2026
 
 ### Context
 
@@ -142,8 +142,8 @@ Courses require native packages, multiple languages or long-running workloads th
 
 ## ADR 006: Keep two document extraction paths behind one contract
 
-**Status:** Accepted  
-**First adopted:** February 2026, expanded August 2026
+- **Status:** Accepted
+- **First adopted:** February 2026, expanded August 2026
 
 ### Context
 
@@ -170,8 +170,8 @@ Document volume or fidelity justifies a dedicated asynchronous ingestion service
 
 ## ADR 007: Use static model tiers and durable cost controls
 
-**Status:** Accepted  
-**First adopted:** February 2026, hardened June to September 2026
+- **Status:** Accepted
+- **First adopted:** February 2026, hardened June to September 2026
 
 ### Context
 
@@ -198,8 +198,8 @@ There is enough labelled traffic to prove that dynamic routing improves cost or 
 
 ## ADR 008: Treat Exam Forecast as map-reduce synthesis
 
-**Status:** Accepted  
-**First adopted:** July 2026, redesigned September 2026
+- **Status:** Accepted
+- **First adopted:** July 2026, redesigned September 2026
 
 ### Context
 
@@ -226,8 +226,8 @@ A content-matched evaluation shows a simpler or more accurate approach, or when 
 
 ## ADR 009: Optimise handwriting for perceived latency
 
-**Status:** Accepted  
-**First adopted:** February 2026, redesigned August 2026
+- **Status:** Accepted
+- **First adopted:** February 2026, redesigned August 2026
 
 ### Context
 
