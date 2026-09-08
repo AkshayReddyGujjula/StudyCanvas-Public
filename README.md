@@ -14,7 +14,7 @@ Turn a difficult passage into a visible trail of questions, answers, tests and n
 
 </div>
 
-[![StudyCanvas canvas showing a PDF, linked answers and executable code](assets/product/studycanvas-overview.png)](https://studycanvas.app)
+[![StudyCanvas canvas overview from the live product](assets/product/learning-canvas.png)](https://studycanvas.app)
 
 > This is the public engineering record for StudyCanvas. The production source remains private while the product is under active development. This repository documents what I built, why I built it this way, what went wrong, and how I tested it. It does not publish production code, prompts, credentials or private user data.
 
@@ -49,7 +49,7 @@ These are captures from the real product, not concept mock-ups.
 
 | Run Python beside the explanation | Keep the whole learning trail visible |
 |---|---|
-| [![Python code running in a browser-based StudyCanvas terminal](assets/product/browser-python.png)](assets/product/browser-python.png) | [![A complete StudyCanvas learning canvas](assets/product/learning-canvas.png)](assets/product/learning-canvas.png) |
+| [![Python code running in a browser-based StudyCanvas terminal](assets/product/browser-python.png)](assets/product/browser-python.png) | [![A complete StudyCanvas learning canvas](assets/product/studycanvas-overview.png)](assets/product/studycanvas-overview.png) |
 | Code nodes run CPython in the browser through Pyodide and WebAssembly. The server never executes the student's snippet. | PDFs, answer branches, quizzes, cards, zones and notes remain spatially connected rather than disappearing into chat history. |
 
 [Watch the real highlight-to-answer interaction](assets/product/highlight-to-answer.mp4) in a short product capture, or try the interactive version at [studycanvas.app](https://studycanvas.app).
